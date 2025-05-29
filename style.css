@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fffdee;
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+.card-header img {
+    object-fit: contain;
+}
+
+.card-header {
+    background-color: #ffc107;
+    border-bottom: 2px solid #ffb300;
+}
+
+.card-body label {
+    font-weight: 500;
+}
+
+.form-check-label img {
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    vertical-align: middle;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffb300;
+    color: #000;
+    font-weight: bold;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #d39e00;
+}
+
+.text-primary {
+    color: #0056b3 !important;
+}
